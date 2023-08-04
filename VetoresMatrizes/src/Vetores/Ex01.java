@@ -24,6 +24,5 @@ public class Ex01
                 System.out.printf("\nO número %d não foi encontrado!", num);
             }
         }
-
     }
 }
